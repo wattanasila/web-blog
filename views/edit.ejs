@@ -1,0 +1,14 @@
+<%- include("partials/header") %>
+
+<h1>Edit</h1>
+<form class="" action="/edit/<%=title%>" method="post">
+    <div class="form-group">
+        <label>Title</label>
+        <input class="form-control" type="text" name="postTitle" value="<%=title%>">
+        <label>Post</label>
+        <textarea class="form-control" name="postBody" cols="30" rows="5"><%=content%></textarea>
+    </div>
+    <button class="btn btn-primary" onclick="return confirm('Please confirm!')" type="submit" name="button">Edit</button>
+    <a class="btn btn-danger" onclick="return confirm('Are you sure you want to delete this item?')" href="/delete/<%=title%>">Delete</a>
+
+<%- include("partials/footer") %>
