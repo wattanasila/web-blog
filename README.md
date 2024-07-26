@@ -5,7 +5,7 @@ Use the web live here : https://sugarlaxy.onrender.com
 
 Thank you for your feedback. To address your question about the "Edit" and "Delete" buttons:
 
-Click on "Read More" and then on the post title to access the edit and delete options. I chose to hide these buttons to streamline the user interface and reduce visual clutter, making the interface cleaner and more user-friendly. However, I recognize that this may not be immediately intuitive for all users.
+Click on "Read More" and then on the post "title" to access the edit and delete options. I chose to hide these buttons to streamline the user interface and reduce visual clutter, making the interface cleaner and more user-friendly. However, I recognize that this may not be immediately intuitive for all users.
 
 My goal was to prioritize simplicity and focus, but I understand the importance of clear instructions and user-specific controls. I am actively working on improving the UI to make these actions more apparent and to ensure that only authorized users can edit or delete posts.
 
