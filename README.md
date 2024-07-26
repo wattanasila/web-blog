@@ -3,7 +3,7 @@ I created this Blog web application by using Node.js, Express.js, and EJS. The a
 
 Use the web live here : https://sugarlaxy.onrender.com
 
-Thank you for your feedback. To address your question about the 'Edit' and 'Delete' buttons:
+Thank you for your feedback. To address your question about the "Edit" and "Delete" buttons:
 
 Click on "Read More" and then on the post title to access the edit and delete options. I chose to hide these buttons to streamline the user interface and reduce visual clutter, making the interface cleaner and more user-friendly. However, we recognize that this may not be immediately intuitive for all users.
 
