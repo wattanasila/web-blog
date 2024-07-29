@@ -1,7 +1,7 @@
 # web-blog
 **Blog Web Application**
 
-Web Live here : **https://sugarlaxy.onrender.com**
+Web Live here : https://sugarlaxy.onrender.com
 
 This project is a blog web application developed using Node.js, Express.js, and EJS. The application facilitates the creation and viewing of blog posts. Note that posts do not persist between sessions due to the absence of a database. Emphasis is placed on styling to provide an optimal user experience.
 
